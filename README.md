@@ -118,7 +118,7 @@ WHERE Booking_Status = 'Success';
 SELECT * FROM Successful_Bookings;
 ```
 
-![Description of the screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/A-Data-Analyst-Project/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
+![Description of the screenshot](https://github.com/tanisha2203/OLA-Data-Analyst-Project/blob/main/images/SQL%20images/Screenshot%202024-12-16%20062720.png)
 
 ---
 
